@@ -1,0 +1,420 @@
+.a{
+	height: 3000px;
+	width: 800px;
+	background-color:grey ;
+}
+.b{
+	height: 300px;
+	width: 800px;
+	background: url('../newvision/images/bg.JPG');
+	background-repeat:no-repeat;
+
+}
+.b1{
+	height: 300px;
+	width: 220px;
+	float: left;
+}
+.b2{
+	height: 220px;
+	width: 250px;
+	float: left;
+	margin: 20px;
+	border-style: solid;
+	border-color:white ;
+	border-width: 10px;
+	color: white;
+	padding:0px 20px 20px 20px;
+	box-sizing: border-box;
+}
+span{
+	font-size: 50px;
+}
+p{
+	font-size: 10px;
+}
+.b3{
+	height: 300px;
+	width: 250px;
+	float: right;
+}
+.c{
+	height: 250px;
+	width: 800px;
+	background-color: hotpink;
+}
+.c1{
+	height: 250px;
+	width: 400px;
+	background-color: hotpink;
+	float: left;
+
+}
+.c11{
+	height: 100px;
+	width: 300px;
+	float: left;
+	font-size: 10px;
+}
+.c12{
+	height:50px ;
+	width: 250px;
+}
+.c13{
+	height: 200px;
+	width: 250px;
+	padding-left: 40px;
+	color: white;
+}
+.c14{
+	height: 10px;
+	width: 50px;
+	float: left;
+	padding-left: 40px;
+	padding-top:10px;
+	font-size: 20px;
+	color: yellow;
+}
+.c15{
+	height: 10px;
+	width: 150px;
+	float: right;
+	padding-top:10px ;
+	font-size: 20px;
+	color:white ;
+}
+.c2{
+	height: 250px;
+	width: 400px;
+	background-color: hotpink;
+	float: right;
+}
+.c21{
+	height: 200px;
+	width: 300px;
+}
+.d{
+	height: 300px;
+	width: 800px;
+	background-color: dodgerblue;
+}
+.d1{
+	height: 300px;
+	width: 290px;
+	float: left;
+	padding-left:40px ;
+}
+.d2{
+	height: 250px;
+	width: 250px;
+	float: right;
+	border-style: solid;
+	border-color:white ;
+	border-width:5px ;
+	box-sizing: border-box;
+	padding-right:10px;
+	padding-top: 20px;
+	margin-top: 20px;
+	margin-right:150px ;
+	margin-left: 0px;
+}
+h2{
+	color: white;
+}
+.p2{
+	color: white;
+	font-size: 10px;
+}
+.h21{
+	color: yellow;
+	text-align: center;
+}
+.p3{
+	color: white;
+	font-size:9px;
+	text-align: center;
+}
+.e{
+	height: 1000px;
+	width: 800px;
+	background-color: hotpink;
+}
+.e1{
+	height: 200px;
+	width: 800px;
+}
+#i1{
+	height: 140px;
+	width: 180px;
+	margin-left: 110px;
+	margin-top:20px ;
+	margin-right:10px ;
+	background-color: white;
+}
+#i2{
+	height: 140px;
+	width: 180px;
+	margin-left: 0px;
+	margin-top:20px ;
+	margin-right:10px ;
+	background-color: white;
+}
+#i3{
+	height: 140px;
+	width: 180px;
+	margin-left: 0px;
+	margin-top:20px ;
+	margin-right:80px ;
+	background-color: white;
+}
+.e2{
+	height: 200px;
+	width: 800px;
+}
+#i1{
+	height: 140px;
+	width: 180px;
+	margin-left: 110px;
+	margin-top:40px ;
+	margin-right:10px ;
+	background-color: white;
+}
+#i2{
+	height: 140px;
+	width: 180px;
+	margin-left: 0px;
+	margin-top:20px ;
+	margin-right:10px ;
+	background-color: white;
+}
+#i3{
+	height: 140px;
+	width: 180px;
+	margin-left: 0px;
+	margin-top:20px ;
+	margin-right:80px ;
+	background-color: white;
+}
+.e3{
+	height: 100px;
+	width: 800px;
+}
+.p4{
+	color: white;
+	padding-left: 120px;
+	padding-right: 140px;
+	text-align: justify;
+	font-size: 10px;
+}
+.e4{
+	height: 250px;
+	width: 800px;
+}
+#i4{
+	height: 200px;
+	width: 200px;
+	margin-left:80px ;
+	margin-right:10px ;
+	margin-top: 10px;
+}
+#i5{
+	height: 200px;
+	width: 200px;
+	margin-left:0px ;
+	margin-right:10px ;
+	margin-top: 10px;
+}
+#i6{
+	height: 200px;
+	width: 200px;
+	margin-left:0px ;
+	margin-right:30px ;
+	margin-top: 10px;
+}
+.f{
+	height: 300px;
+	width: 800px;
+	background-color: dodgerblue;
+}
+.f1{
+	height: 280px;
+	width: 300px;
+	float: left;
+	padding-left: 60px;
+}
+.f2{
+	height: 280px;
+	width: 400px;
+	float: right;
+}
+#i7{
+	height: 280px;
+	width: 220px;
+}
+.f21{
+	height: 10px;
+	width: 250px;
+	background-color: white;
+}
+.z{
+	color: yellow;
+}
+#g{
+	height: 200px;
+	width: 800px;
+	background: url('../newvision/images/bg.JPG');
+}
+.h{
+	height: 400px;
+	width: 800px;
+	background-color: dodgerblue;
+}
+.h1{
+	height: 200px;
+	width: 300px;
+	float: left;
+	padding-left: 60px;
+	padding-top: 80px;
+	padding-right: 40px;
+
+
+}
+.h2{
+	height: 350px;
+	width: 400px;
+	float: right;
+	padding-top: 40px;
+	
+}
+.h31{
+	height: 150px;
+	width: 200px;
+	background-color: yellow;
+}
+.h32{
+	height: 150px;
+	width: 200px;
+	background-color: white;
+}
+.p6{
+	color: white;
+	font-size: 10px;
+}
+.p9{
+	color: dodgerblue;
+}
+.h9{
+	color: dodgerblue;
+}
+.p10{
+	color: dodgerblue;
+}
+.p11{
+	font-size: 15px;
+	text-align: center;
+}
+button{
+	color: white;
+	background-color: dodgerblue;
+	border-color: dodgerblue;
+	border-radius: 5px;
+}
+.i{
+	height: 250px;
+	width: 800px;
+	background: url('../newvision/images/bg.JPG');
+}
+.j{
+	height: 300px;
+	width: 800px;
+	background-color: dodgerblue;
+	box-sizing: border-box;
+}
+.j1{
+	height: 150px;
+	width: 800px;
+}
+.j10{
+	height: 40px;
+	width: 800px;
+}
+.j11{
+	height: 150px;
+	width: 500px;
+	border-color:white ;
+	border-style: solid;
+	border-width: 5px;
+	box-sizing: border-box;
+	margin-bottom: 80px;
+}
+.j2{
+	height:150px;
+	width: 800px;
+	box-sizing: border-box;
+
+}
+#i9{
+	height: 150px;
+	width: 300px;
+	box-sizing: border-box;
+}
+.k{
+	height: 400px;
+	width: 800px;
+	background-color: hotpink;
+}
+#i8{
+	padding-top: 40px;
+	height: 150px;
+	width: 200px;
+}
+.p16{
+	color: white;
+}
+.g1{
+	height: 40px;
+	width: 800px;
+}
+.g2{
+	height: 150px;
+	width: 400px;
+	border-style: solid;
+	border-color: white;
+	border-width:5px ;
+	margin :0px 170px;
+	box-sizing: border-box;
+}
+.bb1{
+	color: pink;
+}
+.i1{
+	height: 25px;
+	width: 800px;
+}
+.i2{
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	margin-left:100px ;
+}
+
+.p15{
+	color: yellow;
+	font-size: 15px;
+}
+.p18{
+	font-size: 10px;
+	color: yellow;
+}
+#i15{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	padding-top: 20px;
+}
+.p25{
+	text-align: center;
+	font-size: 8px;
+	padding-left: 30px;
+	padding-right:30px ;
+}
